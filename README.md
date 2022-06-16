@@ -26,4 +26,4 @@
 # Usage
   You start running the program by debugging will enable ROSA to begin the shopping process for customers on the PEGA shopping platform after downloading the project and   relevant fils uploaded. The Workflow process title is Rosa.
 # License
-  This project uses the following license: MIT License.
+  This project uses the following license: MIT License link https://github.com/frankhume/RosaP1/blob/main/LICENSE
